@@ -12,7 +12,7 @@ Pupilfirst in partnership with Electric Vehicle ecosystem leader Micelio is offe
 
 [Micelio](https://www.micelio.com) is a clean mobility startup founded by Shreyas Shibulal, son of Mr. S. D. Shibulal, Co-Founder and ex-CEO of Infosys. The ikigai of Micelio is to enable an ecosystem that will allow clean mobility start ups to thrive and deliver practical carbon reduction outcomes in day to day world applications. 
 
-## The Four Companies
+# The Four Companies
 
 Micelio comprises of 4 companies – Micelio Fund, Micelio Studio, Micelio Motors and Lightning Logistics. 
 

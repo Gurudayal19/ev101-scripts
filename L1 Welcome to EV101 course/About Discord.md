@@ -1,11 +1,11 @@
-## Thriving in Our Community
+# Thriving in Our Community
 
 As you start your journey in the world of electric vehicle EVs, remember that you're not alone. The big EV group is here to help you at every step. Your success is linked to this friendly community. In this article, we'll talk about why being part of the EV community is important and how it can improve your skills.
 
-## The Strength of the EV Communities
+# The Strength of the EV Communities
 Working on creating EVs is like creating art together and sharing what you know. By joining the EV group, you can learn from others and find solutions together. Whether you're figuring out tricky problems or need advice, this group is the place to go.
 
-## Being a part of the community helps:
+# Being a part of the community helps:
 
 **Working Together**: When many minds come together, they can find solutions that one person might not think of.
 **Learning from Others**: Hearing different ideas makes you understand things better and learn more.
@@ -15,7 +15,7 @@ Being part of a community is really important.
 Check out this [TedX](https://www.youtube.com/watch?v=7yNl-AsQRRw) talk about how communities make a big difference. This doesn't just affect you, but everyone you work with too.
 
 You are an important part of the EV community. As part of this, we encourage you to be open and help make this community even better.
-## Discord: Our Platform for Building the Community
+# Discord: Our Platform for Building the Community
 At the heart of our community lies Discord, an adaptable and powerful platform that enhances your learning experience in numerous ways:
 
 **Real-time Communication**: Discord provides an interactive space for instant discussions, allowing you to seek help, share insights, and discuss intricacies without delay.
@@ -23,7 +23,7 @@ At the heart of our community lies Discord, an adaptable and powerful platform t
 **Support**: A dedicated support pipeline is available with staff members who are ready to answer your questions and provide assistance related to EV programming and coursework.
 **Network**: Connect with fellow students and alumni of our courses from across the country. Engage in conversations about your EV learning experiences, share solutions to EV-specific challenges, and expand your network within the electric vehicle domain.
 
-## Open Source Platforms: Pillars of Collaboration 
+# Open Source Platforms: Pillars of Collaboration 
 
 Several open-source platforms serve as pillars of collaboration, enabling EV enthusiasts to contribute, learn, and grow together within the realm of electric vehicles:
 
@@ -57,7 +57,7 @@ To ensure a positive and productive experience within the EV community, we adher
 
 **Adherence to Platform Guidelines**: Respect the guidelines of the platforms we use, such as discord or github when contributing to EV-specific projects and initiatives.
 
-## Resources for Cultivating Your Community Involvement
+# Resources for Cultivating Your Community Involvement
 
 Remember, community engagement within the EV landscape is all about sharing. Don't hesitate to share interesting findings, insights, and solutions related to electric vehicles. To start, consider exploring these resources that we would like to share with you:
 

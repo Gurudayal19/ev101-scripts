@@ -1,6 +1,6 @@
-India has chalked a plan to aid its electric mobility mission by creating a specialised workforce. The blueprint aims at generating 10 million jobs.
+<img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/ta15q6te44zkiasj2rowyaew7bh0?response-content-disposition=inline%3B+filename%3D%22electric-car-2545290.png%22%3B&response-content-type=image%2Fpng&Expires=1693395068&Signature=Nwl~VMcaRgrbd~fSyOnOpuOFbxAuULlDB7kcieC-DPPyB6CkFyDHqX1C7JJuUHnuqKVzhia-2N7jPfipW6gMCXgHp5vH9x-qW2PEJx5Nk2OdQt-751vMBw~va60~q9T~1KA2sINh~C9SlqYQ16wAKXuwg~QkPGrYlyn5BGXNUCZdGkqqEGgajTMa-JsS55fezkxByQyjgzdkKGow72eXJOJe3HRk8Pj0FDXfIMARPZTjG0DdnRpGDswCnduwOpiObGJUKk0boSPDCvqMTSUUgwISJfp9Cnv~m0Yy6QrL9bo17GhnoKwkD07pqN379pHGRVRZVVlajyjROkOr~lUS9g__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
-The government had initiated the National Electric Mobility Mission Plan in the year 2013 with an objective to put 6-7 million electric vehicles on Indian roads by 2020 and committing to achieving 30% e-mobility in the country by 2030.
+India is strategically planning to boost its electric mobility mission by nurturing a specialized workforce, with an ambitious target of creating 10 million jobs. This initiative traces back to the launch of the National Electric Mobility Mission Plan in 2013. The initial objective was to introduce 6-7 million electric vehicles on Indian roads by 2020 and set a larger ambition of achieving 30% e-mobility adoption by 2030.
 
 The government's Automotive Mission Plan 2026 evaluates to create an additional 65 million jobs in the auto sector.
 
@@ -8,9 +8,9 @@ The government's Automotive Mission Plan 2026 evaluates to create an additional 
 
 
 # Job Fields & Roles
-Electric Vehicles as a product and EV as an industry needs new knowledge and new skills. They represent a paradigm shift in job structure.
+Electric Vehicles (EVs) as a product and an emerging industry demand fresh expertise and novel skills. They signify a transformative paradigm shift in the job landscape.
 
-Seeing such a vast market that India provides for the automotive industry and its continuous growth: 
+Observing the vast and ever-expanding market that India presents to the automotive industry:
 
 >Automobile sales in India grew by 10% in May 2017 - [ET Auto](https://auto.economictimes.indiatimes.com/news/industry/auto-industry-grows-by-10-in-may-2017/59065621). 
 Fuelled by the Government of India [pushing for e-vehicles](https://economictimes.indiatimes.com/news/economy/policy/modi-government-plans-major-policy-push-to-promote-e-vehicles/articleshow/58351446.cms) many major car makers are [planning to invest money towards this in India](https://in.reuters.com/article/india-autos-electric-vehicles/indias-auto-industry-gears-up-for-governments-electric-vehicles-push-idINKCN1BM0Z4)
@@ -29,7 +29,7 @@ Since the electric vehicle is mainly about batteries. So this part will create m
 
 3. **Battery Safety Engineer**: This is mostly related to the safety check of the battery being used in the automobile. This might include performing destructive tests on batteries to better understand their properties, testing batteries for safety protocols etc.
 
-## Jobs related to Drivetrain
+# Jobs related to Drivetrain
 **Power train Engineers**: Since the electric vehicles will have a completely different power train system as the old IC engines will be replaced by the battery system. This will change the driveline system for the vehicle. So having proper know-how of electric power train system will give you an advantage and land you into a new job. 
 
 ### Here you will be involved in 
@@ -38,31 +38,26 @@ Since the electric vehicle is mainly about batteries. So this part will create m
     * Using communication protocols learned in this course, 
     * Developing proper power distribution algorithms 
 
-## There are some more Electric vehicle engineering jobs with multidisciplinary roles, including:
+# There are some more Electric vehicle engineering jobs with multidisciplinary roles, including:
 
-**Chemical engineers** investigate the properties, composition, and structure of matter and the laws that govern the reactions of substances to each other. Using this knowledge, chemical engineers working on electric vehicles find new chemicals to use in batteries or ways to make existing batteries work better and safer. They work closely with other engineers and scientists to develop new batteries and related technologies.
+In the field of Electric Vehicle (EV) engineering, various multidisciplinary roles are crucial:
 
-**Materials engineers** study the structures and chemical properties of various materials to develop new products or enhance existing ones. For EVs, materials engineers are heavily involved in battery research, but also develop materials for other parts of the vehicle. Structural and mechanical components made out of lighter or stronger materials will be needed to make vehicles more fuel-efficient and reliable. These materials also may improve the safety of vehicles as well as their environmental impact.
+- **Chemical Engineers**: Explore matter properties and reactions. In EVs, they find battery chemicals and improve formulations for safety and performance.
 
-**Electrical engineers** design, develop, test, and supervise the manufacture of electrical components. They are responsible for designing the electrical circuitry that allows a gas engine to charge the battery in a hybrid vehicle and distribute the electricity from the battery to the electric motor. Most of this effort is related to the distribution of power throughout the EV where batteries and motors operate at hundreds of volts. This includes the driving of propulsion motors for the EV.
+- **Materials Engineers**: Study material structures for batteries and vehicle parts, developing lighter, stronger options for efficiency and safety.
 
-**Electronics engineers** design, develop, and test electronic components and systems for these vehicles. These engineers are primarily focused on the control systems and additional electronic components for the vehicle. They don’t usually focus on the generation and distribution of electricity.
+- **Electrical Engineers**: Design electrical components, creating circuits for battery charging and power distribution in EVs.
 
-**Electronics engineers** also perform a variety of jobs for EV development, such as:
+- **Electronics Engineers**: Focus on control systems, designing processors, climate control, and preventing interference.
 
-- **Computer engineers** configure the processor and memory along with their associated “building blocks.”
-- **Thermal-management engineers** design climate control inside the EV as well as controls for heat dissipation on electronic components.
-- **EMC (electromagnetic control)** engineers provide techniques to prevent EMI from affecting internal systems in the EV as well as external systems in other equipment.
-- **Lighting engineers** design the EV’s internal and external lighting, primarily using LEDs.
-- **Test engineers** checkout the EV’s hardware and software to ensure all systems are operating properly.
-- **Test instrument engineers** design instruments employed to test various functions on an EV. These instruments might be used on the factory floor or at a car dealer’s repair facility.
-- **Industrial engineers** determine the most effective ways to use the basic factors of production—people, machines, materials, information, and energy—to manufacture vehicles. They’re concerned primarily with increasing productivity through the management of people, use of technology, and improvement of production methods.
+- **Mechanical Engineers**: Design mechanical parts like engines, motors, and steering. They also handle packaging and cable design.
 
-**Mechanical engineers** design, develop and test the tools, engines, machines, and other mechanical devices used in electric vehicles. Devices may include components of electric vehicles or machines used in the manufacture or repair of these vehicles. These engineers may focus on engines, electric motors, or other mechanical devices, such as transmissions, drivetrains, or steering systems. In addition, they may get involved in packaging the electronic circuits within the EV as well as supporting the design of its internal cables.
+- **Software Engineers**: Develop EV software for control systems, applying computer science principles.
 
-**Mechanical engineering technicians** assist engineers with solving technical problems in research, development, manufacturing, construction, inspection, and maintenance. Their work is more narrowly focused and is more oriented toward applications than that of engineers or scientists. Engineering technicians will build or set up equipment, prepare and conduct experiments, collect data, and calculate or record results. They may also help engineers or scientists to make prototypes of newly designed equipment or assist with computer-aided design and drafting (CADD) equipment.
+- **Technicians**: Aid engineers in research, manufacturing, and maintenance, assisting in experiments and data collection.
 
-**Software engineers** design and create EV software. They apply the theories of computer science and mathematical analysis to create and evaluate software applications and systems that make the computers run. Modern vehicles are extensively computer-controlled, and software engineers create the software that controls these vehicles. In addition, hybrid and electric vehicles use on-board computers to produce and distribute
+These diverse skills are essential in driving innovation, efficiency, and sustainability in the EV industry.
+
 
 # Conclusion
 Electric vehicles are an important component of the growing green economy because they can reduce pollutants and dependence on fossil fuels. Jobs in the electric vehicles industry show great potential for new employment opportunities, and employment is expected to grow in all of the major sectors of the industry. In addition, jobs will be created as the electric infrastructure is expanded to support these vehicles. These new jobs will cover a wide variety of occupations.

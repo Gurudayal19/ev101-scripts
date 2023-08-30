@@ -1,12 +1,12 @@
-**Why do you have to study about designing EVs?**
+# **Importance of Studying EV Design**
 
-Lack of technicians skilled in EV and its alarming impact on the EV industry is being realised. Read more [here](https://www.fleetnews.co.uk/news/environment/2015/12/02/skills-shortage-means-government-ev-plans-could-fail-warns-imi).
+The scarcity of proficient technicians in the electric vehicle (EV) domain and its looming impact on the EV industry have garnered attention.  Read more [here](https://www.fleetnews.co.uk/news/environment/2015/12/02/skills-shortage-means-government-ev-plans-could-fail-warns-imi).
 
 ### Now that we know a bit of history about electric cars, let's understand why they are important, and why we need to develop more
 
 The coming decade is expected to be the decade of the fully electric car. With battery prices reportedly falling 73% since 2010, electric cars are expected to be as cheap as fuel-powered cars in the foreseeable future. 
 
-The [International Energy Agency](https://www.iea.org/) cites that by 2020 up to 20 million electric vehicles will be on the roads, a number that is expected to go up to 70 million by 2025. Countries around the world are waking up to the potential of e-mobility. 
+The [EV Vehicle space](https://www.bls.gov/opub/btn/volume-12/charging-into-the-future-the-transition-to-electric-vehicles.htm) will foresee an increase of 50% incerement in the sales by 2030. The increase in consumer demand will open gates for new opportunties for skilled EV enthusiasts in the market.
 
 While China is incentivising e-mobility with tax breaks, EV credit policies, research subsidies and more, countries like the UK, France, Norway and **India are looking to adopt e-mobility at a larger scale, having expressed the desire to phase out petrol and diesel engines entirely in the coming decades.** - [Basf.com](https://www.basf.com/in/en/who-we-are/sustainability/future-perfect/stories/India-s-automotive-future-looks-electric.html#:~:text=On%20the%20economic%20front%2C%20large,owner%20save%20up%20to%20Rs.)
 
