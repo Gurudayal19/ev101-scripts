@@ -98,7 +98,7 @@ When a 3-phase induction motor is connected to utility type 3-phase power, torqu
 
 The motor can start under load. No inverter is needed. The fact that induction motors are directly compatible with conventional utility power is the main reason for their success. In contrast, a brushless DC motor produces no starting torque when directly connected to fixed frequency utility power. They need the aid of an inverter whose “phase” is maintained in step with the angular position of the rotor.
 
-# Disadvantages of an AC induction motor
+# AC Induction Motor: To Choose or Not to Choose?
 While 3-phase induction motors have great utility, they also have some severe limitations. They cannot operate from DC; AC is a must. Shaft speed is proportionate to line frequency. Hence, when used with utility power, they are constant speed machines. Finally, when operated from utility power, they have limited starting torque and somewhat limited running peak torque capabilities, when compared to DC type machines.
 
 Add an inverter (without any feedback control) and it becomes possible to power an induction machine from a battery or other DC source; variable speed also becomes possible simply by adjusting the inverter frequency. Still, torque performance is low compared with DC machines. Add some feedback loops such that the inverter produces the exact frequency that the motor “desires,” and the induction motor is now capable of competing with DC and DC brushless for vehicle applications.

@@ -1,6 +1,6 @@
-Now that we have calculated the necessary torque required to satisfy our *acceleration* and *top speed* requirements, let's select *battery size*.
+Now that we have calculated the necessary torque required to meet our acceleration and top speed requirements, let's proceed to select the appropriate battery size.
 
-The **battery** of an electric vehicle (EV) is one of the most important components since it dictates the dynamic performance, range and charging time of the vehicle. To calculate the size of the battery, we need two main inputs: the **average energy consumption** and the **range of the vehicle**.
+The **battery** in an electric vehicle (EV) stands as one of the most critical components, as it determines the vehicle's dynamic performance, range, and charging time. To calculate the battery size, we require two primary inputs: the **average energy consumption** and the **vehicle's range**.
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/8mssj2b9ooj5ps5rgso0lraqxmjh?response-content-disposition=inline%3B+filename%3D%22energy+consumption.png%22%3B&response-content-type=image%2Fpng&Expires=1693401411&Signature=iExMPOfv9aZ~UPlVO~f-WOl7dYu6yYiFLJVaESudUDXhATfFsXQO1Y7jZ1TN8DTbWTYzuWfckLmX6m-N~agGiX0a1QdFIynAL~YDOuHb9ay44Np9ncv4QXqJvExQaLoZSzrstnxPJSrnBmwioWZzVGGvux~TmKl5CEfFlq7ri8YFkZHgEfAsZYkwGNYJVmoO4bq3jcqf7ZD0s~rpwYu~5qDXHDhSzRuhg-XIn7QYXMNJeLS03QlQkOPcBkT31XXQ4u06EP--XCKkNcw3ZK6R4dJfcsaKbbV~FtBrlKCDQBfif-qAPkWWGoc-P~a9Q7JnMy2BNhJ-wIVYC9Eg3rGzww__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
@@ -15,7 +15,7 @@ While the NEDC test determines test values based on a theoretical driving profil
 ## WLTC drive cycle
 The average energy consumption of the vehicle *E~avg~ [Wh/km]* will be calculated on a homologation cycle. 
 
-For our example, we are going to use the WLTC drive cycle. The test procedure WLTP (Worldwide harmonized Light vehicles Test Procedure) contains several driving cycles:
+For this example, we are going to use the WLTC drive cycle. The test procedure WLTP (Worldwide harmonized Light vehicles Test Procedure) contains several driving cycles:
 
 - Class 1 – low-power vehicles with PW~r~ <= 22
 - Class 2 – vehicles with 22 < PW~r~ <= 34
@@ -57,29 +57,31 @@ The method to calculate the energy consumption is straightforward, and it makes 
 
 ----
 
->Everything explained in the video above is explained below as well, so that it is easier to follow and understand. if you are confused, please watch the video again. 
+>Everything that was explained in the video above is also explained below for easier understading. If you are confused about anything that is covered in the video, we encourage you to watch the video again.
+
 
 ## 1. Setting up the Simulation Environment
 
-We will now need to install and Setup Scilab, Follow the steps below to install and set it up.
+We will now need to install and setup Scilab, Follow the steps below to install and set it up.
 
-### Step 1. Download Scilab
+**Step 1. Download Scilab**
 
 Click [here](https://www.scilab.org/download/6.1.0) to go to Scilab website, under the *Download* section and choose your installation package. For windows operating systems the are two versions: 32 and 64-bit. Download the one matching your operating system specification.
 
 When the download is complete you’ll have on your disk drive a *.exe file (e.g. Scilab-5.4.0.exe)
 
-### Step 2: Run *.exe file
+**Step 2: Run *.exe file**
 
-### Step 3: Select the language to be used during the installation process
+**Step 3: Select the language to be used during the installation process**
 
-### Step 4: Launch the Scilab Setup Wizard
+**Step 4: Launch the Scilab Setup Wizard**
 
-### Step 5: Read the License Agreement
+**Step 5: Read the License Agreement**
 
-### Step 6: Review all installation settings
+**Step 6: Review all installation settings**
 
-### Step 7: Launch Scilab
+**Step 7: Launch Scilab**
+
 At the end of the installation, if you check the box for “Launch Scilab”, when you click the “Finish” button, Scilab will be launched.
 
 Click the “Finish” button to exit the Setup Wizard.
@@ -104,7 +106,7 @@ This will be the folder where all our project files are stored.
 
 ## 3. Acquiring the WLTC Test cycle Data
 
-Click on the link below to Download the data, Make sure you store it in  the *Electric vehicles* folder created in the previous step.
+Click on the link below to download the data, Make sure you store it in  the *Electric vehicles* folder created in the previous step.
 
 [Download WLTP-DHC-12-07e.xls](https://demo.pflms.com/markdown_attachments/1780/BBDYix0qAUzkv4FVzSxZ-w)
 
