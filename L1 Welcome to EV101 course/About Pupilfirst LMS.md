@@ -20,7 +20,7 @@ Once you sign-in successfully, you will see the list of courses you are a part o
 From one of the listed courses on your _Dashboard_, click _View Course_ to view its curriculum.
 
 
-## Curriculum
+# Curriculum
 
 It is a main page where you will see all of the course content.
 

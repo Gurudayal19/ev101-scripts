@@ -1,16 +1,14 @@
-Now that we have calculated the average energy needed for propulsion of the vehicle with respect to a WLTC Drive cycle, we can take that data and move on to selecting a battery to accommodate the energy consumption.
+Now that we've determined the average energy required for vehicle propulsion based on the WLTC Drive cycle, we can use this data to guide our choice of a suitable battery to meet our energy consumption needs.
 
-The battery parameters have a significant influence on other components and attributes of the vehicle, like:
+The battery's parameters exert a substantial influence on various other aspects and characteristics of the vehicle, including:
 
-- Maximum traction motor torque
-- Maximum regeneration brake torque
-- Vehicle range
-- Vehicle total weight
-- Vehicle price
+Maximum traction motor torque
+Maximum regeneration brake torque
+Vehicle range
+Total vehicle weight
+Vehicle price
 
->Pretty much all major aspects of a pure electric vehicle depend on the parameters of the battery.
-
-Before we move on to selecting our battery, we need to calculate all the secondary appliances in a vehicle that will require power as well.
+>Before we move on to selecting our battery, we need to calculate all the secondary appliances in a vehicle that will require power as well.
 
 On top of the energy needed for propulsion **i.e, E~p~= 31.7 Wh/km calculated in the previous lesson,** the battery must supply the energy for the vehicle’s auxiliary devices E~aux~ [Wh/km], like 12 V electrical system. Also, we have to consider the efficiency of the powertrain η~p~[-] during the conversion from electrical energy to mechanical energy.
 
@@ -22,7 +20,8 @@ The duration of the WLTC cycle is 1800 s (0.5 h), which gives energy of 20 Wh fo
 
 If we divide it on the length of the WLTC driving cycle (23.266 km), we get an average energy consumption for the auxiliary loads E~aux~ of 0.86 Wh/km.
 
-Even if Wh/km is not really energy but factorized energy, since it’s divided per unit of distance (km), for simplicity, we are going to refer to it as average energy.
+Although Wh/km isn't precisely energy itself, it's often referred to as "average energy" due to its division by distance (km) for simplicity.
+
 
 The direct current (DC) supplied by the battery is converted into alternated current (AC) by the inverter. This conversion takes place with an associated loss. Also, the electric motor and driveline have some losses which we need to consider. For this exercise, we are going to use an average efficiency η~p~ of 0.9 from the battery to the wheel.
 

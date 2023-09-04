@@ -1,6 +1,6 @@
 # EV 101: Introduction to Electric Vehicles
-This course is designed to introduce you to Electric Vehicles, and provide you a comprehensive understanding about why electric vehicles are important .Through this course, you will gain a basic technical foundation about electric vehicles and underlying technologies associated in EV vehicle development. 
-Setting a foundation for you to move  on to advanced electric vehicle courses in the future.
+This course is designed to introduce you to Electric Vehicles, and provide you a comprehensive understanding about why electric vehicles are important. Through this course, you will gain a basic technical foundation about electric vehicles and underlying technologies associated in EV vehicle development. 
+This course will also set a foundation for you to move on to advanced electric vehicle courses in the future.
 
 
 You will explore the working principle of electric vehicles through video lectures, presentations and exercises, which are all illustrated with real-world case studies from projects that were implemented in this course, so sit tight.

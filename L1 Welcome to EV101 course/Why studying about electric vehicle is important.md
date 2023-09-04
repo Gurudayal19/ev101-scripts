@@ -1,4 +1,4 @@
-# **Importance of Studying EV Design**
+# **Importance of studying EV design**
 
 The scarcity of proficient technicians in the electric vehicle (EV) domain and its looming impact on the EV industry have garnered attention.  Read more [here](https://www.fleetnews.co.uk/news/environment/2015/12/02/skills-shortage-means-government-ev-plans-could-fail-warns-imi).
 

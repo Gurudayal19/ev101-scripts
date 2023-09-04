@@ -1,4 +1,4 @@
-## About
+# About
 This document contains the content for the lesson industry gateway and alumni network for EV courses.
 
 ## EV Industry Gateway 

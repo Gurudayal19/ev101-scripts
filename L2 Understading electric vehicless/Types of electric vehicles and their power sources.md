@@ -1,13 +1,13 @@
 Having familiarized ourselves with the distinctions separating electric vehicles from internal combustion engines, let's delve into the various classifications within the space of electric vehicles.
 
-There are four main types of electric vehicles (EVs), classed by their energy source. 
+There are four main types of electric vehicles (EVs), classed by their energy source:
 - **BEVs** or Battery electric vehicles, 
 - **PHEVs** or Plug-in hybrid electric vehicles, 
 - **HEVs** or Hybrid electric vehicles, and 
 - **FCEV** or Hydrogen Fuel cell electric vehicles. 
 
 ---
-# Battery Electric Vehicles (BEV)
+## Battery Electric Vehicles (BEV)
 
 
 ![electric-high-res.jpg](https://demo.pflms.com/markdown_attachments/1730/uxSf4R4U7r-Kz8CHG0R8OA)
@@ -17,7 +17,7 @@ There are four main types of electric vehicles (EVs), classed by their energy so
 **Battery Electric Vehicles (BEVs)**: These vehicles are solely powered by electricity stored in high-capacity batteries. BEVs do not rely on any internal combustion engine and produce zero  emissions. They need to be charged using external power sources, such as charging stations or home outlets. 
  
 ---
-# Plug-in Hybrid Electric Vehicle (PHEV)
+## Plug-in Hybrid Electric Vehicle (PHEV)
 
 ![plugin-high-res.jpg](https://demo.pflms.com/markdown_attachments/1731/pzYk2TdcY9ru_zC9uTt-6A) 
 
@@ -27,7 +27,7 @@ There are four main types of electric vehicles (EVs), classed by their energy so
 **Plug-in Hybrid Electric Vehicles (PHEVs)**: PHEVs combine an electric motor with an internal combustion engine. They can operate in all-electric mode for shorter distances using their battery, and then switch to the internal combustion engine when the battery charge is depleted. PHEVs can also be charged externally, providing an increased electric-only range compared to traditional hybrids.
  
 ---
-# Hybrid Electric Vehicles (HEV)
+## Hybrid Electric Vehicles (HEV)
 
 ![hybrid-high-res.jpg](https://demo.pflms.com/markdown_attachments/1732/IZGPDJOsCrz4uZh77j1aAQ) 
 
@@ -38,7 +38,7 @@ HEVs are powered by both gasoline and electricity. The electric energy is genera
 HEVs start off using the electric motor, then the gasoline engine cuts in as load or speed rises. The two motors are controlled by an internal computer, which ensures the best economy for the driving conditions.
 
 ---
-# Hydrogen Fuel cell Electric Vehicles (HEV)
+##S Hydrogen Fuel cell Electric Vehicles (HEV)
 
 ![hydrogen-high-res.jpg](https://demo.pflms.com/markdown_attachments/1733/yGX9xMAySAUq81pIMoKFQw)
 

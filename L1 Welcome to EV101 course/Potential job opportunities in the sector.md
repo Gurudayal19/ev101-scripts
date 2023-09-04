@@ -1,13 +1,13 @@
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/ta15q6te44zkiasj2rowyaew7bh0?response-content-disposition=inline%3B+filename%3D%22electric-car-2545290.png%22%3B&response-content-type=image%2Fpng&Expires=1693395068&Signature=Nwl~VMcaRgrbd~fSyOnOpuOFbxAuULlDB7kcieC-DPPyB6CkFyDHqX1C7JJuUHnuqKVzhia-2N7jPfipW6gMCXgHp5vH9x-qW2PEJx5Nk2OdQt-751vMBw~va60~q9T~1KA2sINh~C9SlqYQ16wAKXuwg~QkPGrYlyn5BGXNUCZdGkqqEGgajTMa-JsS55fezkxByQyjgzdkKGow72eXJOJe3HRk8Pj0FDXfIMARPZTjG0DdnRpGDswCnduwOpiObGJUKk0boSPDCvqMTSUUgwISJfp9Cnv~m0Yy6QrL9bo17GhnoKwkD07pqN379pHGRVRZVVlajyjROkOr~lUS9g__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
-India is strategically planning to boost its electric mobility mission by nurturing a specialized workforce, with an ambitious target of creating 10 million jobs. This initiative traces back to the launch of the National Electric Mobility Mission Plan in 2013. The initial objective was to introduce 6-7 million electric vehicles on Indian roads by 2020 and set a larger ambition of achieving 30% e-mobility adoption by 2030.
+India is strategically planning to boost its electric mobility mission by nurturing a specialized workforce, with an ambitious target of creating 10 million jobs. This initiative traces back to the launch of the National Electric Mobility Mission Plan in 2013. The initial objective was to introduce 6-7 million electric vehicles on Indian roads by 2020 and set a larger ambition of achieving [30% e-mobility adoption by 2030](https://timesofindia.indiatimes.com/blogs/voices/vision-of-electric-vehicle-industry-by-2030/).
 
 The government's Automotive Mission Plan 2026 evaluates to create an additional 65 million jobs in the auto sector.
 
 >According to Arindam Lahiri, CEO of the Automotive Skills Development Council, the process of making EV-specific occupational standards have been initiated in partnership with the Pune-based Automotive Research Association of India.
 
 
-# Job Fields & Roles
+# Job fields & roles
 Electric Vehicles (EVs) as a product and an emerging industry demand fresh expertise and novel skills. They signify a transformative paradigm shift in the job landscape.
 
 Observing the vast and ever-expanding market that India presents to the automotive industry:
@@ -17,7 +17,7 @@ Fuelled by the Government of India [pushing for e-vehicles](https://economictime
 
 New technology (from conventional fuel-dependent vehicles to electric vehicles) and new market bring new job opportunities with them. Same is the case with electric vehicles. Electric vehicles will create new areas to work upon which are not common now but will be heavily required in coming future.
 
-# Some jobs available for engineers related to electric vehicles in future 
+## Some jobs available for engineers related to electric vehicles in future 
 
 ## Jobs related to battery segments
 
@@ -29,7 +29,7 @@ Since the electric vehicle is mainly about batteries. So this part will create m
 
 3. **Battery Safety Engineer**: This is mostly related to the safety check of the battery being used in the automobile. This might include performing destructive tests on batteries to better understand their properties, testing batteries for safety protocols etc.
 
-# Jobs related to Drivetrain
+## Jobs related to Drivetrain
 **Power train Engineers**: Since the electric vehicles will have a completely different power train system as the old IC engines will be replaced by the battery system. This will change the driveline system for the vehicle. So having proper know-how of electric power train system will give you an advantage and land you into a new job. 
 
 ### Here you will be involved in 
@@ -38,7 +38,7 @@ Since the electric vehicle is mainly about batteries. So this part will create m
     * Using communication protocols learned in this course, 
     * Developing proper power distribution algorithms 
 
-# There are some more Electric vehicle engineering jobs with multidisciplinary roles, including:
+## There are some more electric vehicle engineering jobs with multidisciplinary roles, including:
 
 In the field of Electric Vehicle (EV) engineering, various multidisciplinary roles are crucial:
 
@@ -59,5 +59,5 @@ In the field of Electric Vehicle (EV) engineering, various multidisciplinary rol
 These diverse skills are essential in driving innovation, efficiency, and sustainability in the EV industry.
 
 
-# Conclusion
+## Conclusion
 Electric vehicles are an important component of the growing green economy because they can reduce pollutants and dependence on fossil fuels. Jobs in the electric vehicles industry show great potential for new employment opportunities, and employment is expected to grow in all of the major sectors of the industry. In addition, jobs will be created as the electric infrastructure is expanded to support these vehicles. These new jobs will cover a wide variety of occupations.

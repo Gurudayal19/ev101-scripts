@@ -17,7 +17,7 @@ The four components of Li-ion Battery​:
 
 -=- _General discharging Li battery_ | License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# **1. Cathode** 
+## **1. Cathode** 
 The cathode plays an important role in determining the characteristics of the battery as the battery’s capacity and voltage are determined by the active material type used for the cathode.
 The higher the lithium, the bigger the capacity; and the bigger the potential difference between cathode and anode, the higher the voltage.
 The potential difference is small for anode depending on their type but for the cathode, the potential difference is relatively high in general.
@@ -26,7 +26,7 @@ As such, the cathode plays a significant role in determining the voltage of the 
 >“Cathode” determines the capacity and voltage of a Li-ion battery.
 
  
-# **2. Anode** 
+## **2. Anode** 
 
 The basic function of an anode is to send "electrons" through the wire when the battery is getting discharged or is connected to an appliance.
  
@@ -41,7 +41,7 @@ Because graphite has optimal qualities such as structural stability, low electro
 
 
 
-# **3. Electrolyte** 
+## **3. Electrolyte** 
 
 The electrolyte is the medium by which the movement of ions happens! 
 
@@ -51,7 +51,7 @@ Here the salts are the passage for lithium ions to move, the solvents are organi
 
 >“Electrolyte” allows the movement of ions only.
 
-# **4. Separator** 
+## **4. Separator** 
 
 
 While the cathode and anode determine the basic performance of a battery, electrolyte and separator determine the safety of a battery.  
@@ -64,7 +64,7 @@ Separators are usually made up of synthetic resins such as polyethylene (PE) and
 
 >”Separator”, the absolute barrier between cathode and anode.
 
-# To recap
+## To recap
 - The electrolyte in the center carries positively charged lithium ions from the anode to the cathode and vice versa through the separator. 
 - The movement of the lithium ions creates free electrons in the anode which creates a charge at the cathode (blue).  
 - The electric current caused due to the flowing electrons then flows from the cathode through a device being powered to the anode (red). 
@@ -85,7 +85,7 @@ Separators are usually made up of synthetic resins such as polyethylene (PE) and
 **Now that we know the basic components of a Li-ion Cell, let's understand more what goes on during charging and discharging!**
 
 ---
-#  Charging a battery
+##  Charging a battery
 
 When the battery is charging up, the lithium-cobalt oxide, positive electrode gives up some of its lithium ions, which move through the electrolyte to the negative, graphite electrode and remain there. The battery takes in and stores energy during this process.
 
@@ -99,7 +99,7 @@ When the battery is charging up, the lithium-cobalt oxide, positive electrode gi
 2. Lithium ions move from the cathode to the anode through the electrolyte.
 3. The battery is charged by a potential difference between the two electrodes.
 
-#  Discharging a battery
+##  Discharging a battery
 When the battery is discharging, the lithium ions move back across the electrolyte to the positive electrode, producing the energy that powers the battery. In both cases, electrons flow in the opposite direction to the ions around the outer circuit. Electrons do not flow through the electrolyte: it's effectively an insulating barrier, so far as electrons are concerned.
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/628fdm2n6bttjuogbbatspckey1o?response-content-disposition=inline%3B+filename%3D%22discharging-cropped.gif%22%3B&response-content-type=image%2Fgif&Expires=1693400804&Signature=JYrha-duzy8NVrcFXvGiWEplsB1enTmkCV7X5joc5u~ppUFqfChYatVh~IfS157VhxUOPROxRO7ejycaUnwPAuJIkC~ZBLdjOarG-jsAjryg4tzqIvJ9wYuyPUDaEQnmQwmZ7BhPS1G9XK3XwyWFWeQ7A2OwxPEe-J7jGTZc6o4EDL-t0~61rC9lIQUoi5Hp0wn0VikN0N8Qr1~xHp-Z3cqj18cJ0b077LrHWiJcRtE4Eygm0Vg4bbFVUjszdkNZS68grmXdO724DGScHwE91uJ-~PyBGYmYrx3YIHGzcmuo-18wRpfB2rUEP1SRnN-dd244AD9k~vsJfDcME5D9dQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
@@ -110,7 +110,7 @@ When the battery is discharging, the lithium ions move back across the electroly
 2. Lithium ions stored in the anode move to the cathode.
 3. Energy is used.
 
-# Important points to remember
+## Important points to remember
 
 - Lithium-ion chemistry prefers partial discharge to deep discharge, so it's best to avoid taking the battery all the way down to zero. Since lithium-ion chemistry does not have a "memory", you do not harm the battery pack with a partial discharge. 
 

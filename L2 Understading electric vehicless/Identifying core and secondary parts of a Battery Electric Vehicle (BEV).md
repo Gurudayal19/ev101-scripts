@@ -1,6 +1,4 @@
-[This content can be broken down into two chapters, and some more content like https://www.youtube.com/watch?v=CWulQ1ZSE3c can be added in the future]: #
-
-Having explored the diverse categories of electric vehicles and their types, let's now conduct an in-depth examination of the composition of a battery electric vehicle (BEV)..
+Having explored the diverse categories of electric vehicles and their types, let's now conduct an in-depth examination of the composition of a battery electric vehicle (BEV).
 
 In contrast to traditional internal combustion engine vehicles, **BEVs** are characterized by their simplicity and user-friendly operation. The fundamental powertrain architecture of a BEV comprises a high-voltage battery, an electric motor equipped with a power electronics controller, and a single-speed gearbox. To differentiate them from Hybrid Electric Vehicles (HEVs), which combine an internal combustion engine with an electric motor, BEVs are often referred to as **pure electric vehicles**.
 
@@ -29,7 +27,7 @@ Here is an example of a Jaguar I-pace Electric car, completely stripped. You can
 
 -=- Source: [New Jaguar I-Pace’s battery electric vehicle technology at a glance](https://www.autocar.co.uk/car-news/motor-shows-la-motor-show/new-jaguar-i-pace%E2%80%99s-battery-electric-vehicle-technology-glance) ([License](https://media.jaguarlandrover.com/user-licence))
 
-# A. The Batteries (The storage component)
+## A. The Batteries (The storage component)
 
 <img class="mx-auto w-auto md:w-auto" alt="Image 3 - Schematic build-up of an automotive battery system" src="https://do7js0tdxrds1.cloudfront.net/lcpqmkufhjhbpsx9t1s0fonap18v?response-content-disposition=inline%3B+filename%3D%22AC+%283%29.png%22%3B&response-content-type=image%2Fpng&Expires=1693398434&Signature=V6FK8RuNKpGbYqOStAmMvDoVvlVHtNrZfTFBEgKyVcpG6uJIU2lvCDsLeA1k0NctFgLG2gc5GfTOfFMSlgQnkjQufC4U~NCbR3w-TGp6DRJvEHRP3ioIwAlY3VRZPTl5sLt9NsDn5Yeh8o9DcRXJYB-LQQsRoiY6-MqUIghDgiIYsKIwkR07st7A4FZ7UnUAOqB-t4i~D2V5Vkh6pyFuAbt219hWrqcc9bNzRPhv~KZ04gA2sn3ka7vo-dWDVCDK6Rc3kVAOjURGPtQ8ZO~I28IFve2qZ5s1oPRuwzodvV56-sWKVUbgp6NX-mZNumeF9aroQQWVqqqihTAvgqTV4g__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 Image 3 - Schematic build-up of an automotive battery system
@@ -67,7 +65,7 @@ Battery management systems for smaller electric vehicles also include an embedde
 
 >  For lithium-ion cells, the ideal charging algorithm is constant current and constant voltage. 
 
-# B. The Drivetrain
+## B. The Drivetrain
 -=- ![Renault-Zoe-powertrain.jpg](https://demo.pflms.com/markdown_attachments/1726/T3EN-dN7lUcX-yuC86k8bA)*Renault Zoe powertrain
 Source: [Renault Cleo Plant press kit](https://www.autoblog.com/photos/renault-r250-electric-motor-at-cleon-plant/#slide-1448570)* 
 
@@ -105,7 +103,7 @@ When the vehicle is charged from a home electrical grid (e.g. 220 V),
 
 5. The **input filter** reduces the electric noise or interference generated during regenerative braking, when energy is fed back into the batteries via the motors.
 
-# Understanding motors
+##S Understanding motors
 
 <img class="mx-auto w-auto md:w-auto" alt="A typical exploded view of an Induction motor" src="https://do7js0tdxrds1.cloudfront.net/6cl615vw8or1epho8kcd62d3asnm?response-content-disposition=inline%3B+filename%3D%22AC+%282%29.png%22%3B&response-content-type=image%2Fpng&Expires=1693398434&Signature=Hof2v86sr1eKcBxJkHWLXxfJzREug3WCzphtv6fdXmZpZfihvCxWWqiolfQjzHlpMeR8X5Cw~rhvU9h1b5hGe7hXCANwQKcgz4tdrmvIKEI36s3cpa-fSZtUVyBzw4u2WOFVMCeiDy54eel1SJlnHaGPeOIsQ~LUUtUtD0s90MR2g3jEfPpPQ2J49r2LuvU0afXT8wzusCo8ueqmNzOc9gGC9TCkY~4vG7bYJfz7QMXnLC2qDEpNGw7DN73iShyI43EW6~8bPsH3FvGeH-GLh3qjNHhXGO5tceO9wfF92MX4RPq5Q97ahLX-DjUFCfmtz5Gk8S~AzxbRIf70hOGgpA__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 

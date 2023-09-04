@@ -1,17 +1,17 @@
 Important guidelines for completing the EV 101 course on Mathematical Modelling of an Electric Vehicle:
 
 
-# **1. Completing the EV 101 course.**
+## **1. Completing the EV 101 course.**
 
 EV 101 is a beginner-level course aimed at gauging the interest of students in the field of electric vehicles and providing basic knowledge about the technology that powers them. Towards that, we expect the students to complete the course adhering to the course calendar and submitting original work only.
 
-# **2. How will reviews be handled?**
+## **2. How will reviews be handled?**
 
 The EV 101 course consists of 5 levels, which include a final capstone submission as part of Level 5. Level 3 to Level 5, where students are required to make submissions, are equipped with Virtual Teaching Assistant (VTA) support. The VTA will assess your submissions against specific criteria to determine a pass or fail outcome.
 
 However, please note that EV 101 L5 - Capstone Project Final Submission will follow a manual review process. This is for us to additionally assess your understanding of the concepts you learn in EV 101, and how you are capable of implementing the concepts you have learned in real life. Resubmissions are allowed for all submissions in the EV 101 course, **except in the Capstone Project Final Submission.**
 
-# **3. Submit only your original work for review**
+## **3. Submit only your original work for review**
 
 We would like you to adhere to our Code of Conduct and submit only original work for review throughout the course. 
 
@@ -26,7 +26,7 @@ Since this is a beginner-level course, actions will be taken against students wh
 We strongly emphasize the importance of original work and encourage you to avoid any instances of plagiarism. By doing so, you can fully engage in the course, receive comprehensive feedback, and make the most of the learning experience provided by Pupilfirst.
 
 
-# **4. Time management is critical, so follow the timelines listed in the course calendar**
+## **4. Time management is critical, so follow the timelines listed in the course calendar**
 
 “The common man is not concerned about the passage of time, the man of talent is driven by it.” - **Arthur Schopenhauer**
 
@@ -43,7 +43,7 @@ Your faculty members have completed the EV 101 course, well, within a month, and
 The intermediate-level EV 201 course will require you to put in much more effort as you will be learning to design and build an EV powertrain prototype throughout the course and being consistent is critical. We will be aiming to build an effective foundation through EV 101, that way EV 201 will be exciting, though challenging.
 
 
-# **5. Clarifying your doubts and being active in Discord**
+## **5. Clarifying your doubts and being active in Discord**
 
 You will confront many doubts throughout your learning journey and it is important for you to ask your questions/doubts, get them clarified and complete the course successfully.
 
@@ -55,7 +55,7 @@ Prof. Souvik has completed the EV101 course as part of the Faculty Development P
 
 We have the right platform for you to ask your questions as vetted by faculty members who have taken the courses to clarify your doubts as well as take part in engaging discussion which will help you grow. Jump into the Pupilfirst Discord Server and start interacting today!
 
-# **6. What happens if you miss a deadline?**
+## **6. What happens if you miss a deadline?**
 Students who miss the deadlines will have their course access ended. Below are the eligible perks for students whose course access has been ended.
 
 <img src="https://do7js0tdxrds1.cloudfront.net/6bxhssm0va5jlv5bivhprejr39gl?response-content-disposition=inline%3B+filename%3D%22unnamed+%282%29.png%22%3B&response-content-type=image%2Fpng&Expires=1693382813&Signature=GPYZ8AI0WjitYv5SmWXIKv~nhNCYOnXJP-zRYPXDyM2Q52x0UE0CO68JodTpI4A3ZvkxjRUzMBkBXpl4CnbtRGhH~Q~BRr829Vk2SZQN7W3uUAEsqAIQkY3yqSKNLfYCIGE8~oA7RAaYKkdSQuNgefYPfcsFt5Gj-wWf890EwyDEE89N8-UUV-8x7JxI8zwL-SZj0oE3wcBlkEbTH36PYbA3VGKgokLDf3iJaDg9O7dgb31O4dBn7CPF87EN1S2xWcy8QqVeV9m1duBQxv6aDn1OytxdSP2O0VEnaUzDLlyrCTlni9CigfhYt4KzkK6K1QbU3oI4jK28oTbUxFgEjg__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">

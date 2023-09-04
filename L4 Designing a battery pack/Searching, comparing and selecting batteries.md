@@ -2,13 +2,13 @@
 
 # Searching, comparing and selecting
 
-Now that we know how a battery pack works, we now have to learn the steps that go into building a battery pack. 
+To streamline the process of battery pack construction, we need to follow a series of well-defined steps:
 
-First is searching for cell manufacturers available in the market and the products they provide. 
+**Market Research**: Initiate the process by researching and identifying cell manufacturers available in the market along with their product offerings.
 
-Once that is done, we will move on to gathering all the data of these cells from their datasheets on the internet.
+**Data Gathering**: Once the manufacturers are identified, proceed to gather comprehensive data about the cells from their datasheets, which can typically be found online.
 
-Once you have gathered the required data to fill all the data in the Excel sheet given below.
+**Data Compilation**: Utilize the acquired data to fill in the required information into the Excel sheet provided. Ensure that all relevant properties are accurately documented.
 
 >For now, the Excel table below is already prefilled for you as an example. But for your simulation, **you will have to go through battery datasheets and find and fill out the properties yourself. You cannot use the example for your submission.**
 
@@ -34,9 +34,10 @@ An example of the table and all the parameters that need to be entered by you.
 | C-rate (peak)  |   |   |   |   |   |   |
 
 
-# Submission
+## Submission
  
-## Objective
+**Objective**
+
 Build a battery pack by arranging them in series or in parallel to get the Required Watt-hours to travel a **distance of 150 Kilometers**.
 
 The required Watt-hours can be calculated by multiplying the Range by the energy consumed per kilometer.
@@ -45,7 +46,7 @@ As an example, the total energy consumption according to our calculation was aro
 
 Now, let's calculate the needed battery capacity, i.e. 35.75 x 150 = 5362 Watt-hours, or a 5.3-kilowatt-hour battery pack
 
->**The required watt-hours per kilometres as calculated is gathered from your energy consumption block diagram that you simulated in the previous task
+>**The watt-hours per kilometer requirement, as calculated, is obtained from the energy consumption block diagram that you simulated in the previous task
 
 >The Vehicle you are designing is a low power electric scooter, and electric scooters have limited space, thus select a battery with great power to Pack volume[M3] ratio, good power to weight ratio, capacity to price ratio, etc. 
 
@@ -61,7 +62,7 @@ Now, let's calculate the needed battery capacity, i.e. 35.75 x 150 = 5362 Watt-h
 8. Once you have designed the battery pack, enter all the details of your battery with the total energy consumption that you have calculated in the previous level in the questionnaire given below.
 
 
-### Basically:
+**Basically**:
 As you will be given a list of 5 different batteries from different manufacturers. All you need to do is, find the datasheets of these individual batteries and enter them into the Excel sheet and simulate accordingly. Compare all the plots and specifications and complete the quiz.
 
 
