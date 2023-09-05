@@ -6,4 +6,4 @@ In this project, you will select an Indian Internal combustion engine 2 wheeler 
 
 First go through the project instructions lesson to understand what all is needed to be done in the project. 
 
-Next, check the submission requirements for Capstone initial and final versions, so you can work on them in parallel and be ready by the time you complete the project.
+To ensure a smooth workflow and timely completion of your Capstone project, it's essential to review the submission requirements for both the initial and final versions concurrently. This will enable you to work on both phases simultaneously and be well-prepared for submission upon project completion.

@@ -34,7 +34,7 @@ But for now, let's understand the **types of electric motors that are available*
 ![Types of motors.png](https://www.pupilfirst.school/markdown_attachments/3392/Ko2pxv9caXa1u_vFxyyjoQ)
 
 
-# Let's have a closer look.
+## Let's have a closer look.
 
 So, what are these two technologies? How do they work? What differentiates them? And what do they have in common? Let’s start with DC brushless drives also known as BLDC motors!
 
@@ -69,7 +69,7 @@ The arrow in the image above is the north pole of the magnet getting attracted t
 
 Now that we have learned a bit about DC brushless motors, the next type is called an **induction motor**.
 
-# A closer look at induction motor drives. 
+##S A closer look at induction motor drives. 
 
 A forerunner of the 3-phase induction motor was invented by Nikola Tesla sometime before 1889. Curiously, the stators for the 3-phase induction motor and the DC brushless motor are virtually identical. Both have three sets of “distributed windings” that are inserted within the stator core. The essential difference between the two machines is with the rotor.
 
@@ -98,14 +98,14 @@ When a 3-phase induction motor is connected to utility type 3-phase power, torqu
 
 The motor can start under load. No inverter is needed. The fact that induction motors are directly compatible with conventional utility power is the main reason for their success. In contrast, a brushless DC motor produces no starting torque when directly connected to fixed frequency utility power. They need the aid of an inverter whose “phase” is maintained in step with the angular position of the rotor.
 
-# AC Induction Motor: To Choose or Not to Choose?
+## AC Induction Motor: To Choose or Not to Choose?
 While 3-phase induction motors have great utility, they also have some severe limitations. They cannot operate from DC; AC is a must. Shaft speed is proportionate to line frequency. Hence, when used with utility power, they are constant speed machines. Finally, when operated from utility power, they have limited starting torque and somewhat limited running peak torque capabilities, when compared to DC type machines.
 
 Add an inverter (without any feedback control) and it becomes possible to power an induction machine from a battery or other DC source; variable speed also becomes possible simply by adjusting the inverter frequency. Still, torque performance is low compared with DC machines. Add some feedback loops such that the inverter produces the exact frequency that the motor “desires,” and the induction motor is now capable of competing with DC and DC brushless for vehicle applications.
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/eo5gljxq8i75iws7dt8cvv0ldn9e?response-content-disposition=inline%3B+filename%3D%22final_60fac1f991d4b700978d36dd_783612.gif%22%3B&response-content-type=image%2Fgif&Expires=1693400456&Signature=U5IxfpRHNPgKtuYrxAgI5mE5ROaF2exjRBeIfbe0YMWFHYofmr1ozTo~ginzbwaaihgHEFUNoTb4tg8RpCJlfJZJZ36I28F75sqUI-U9ajqi44-L2hPRn8URX-Wck0OwZ1WVrjPaf2nEP5MmnWjZgUdE1qs7NxdfzSPEvHzzXMlXrqRQYnWvSjevdW2iNq-rnE9HPEAhuaCUSREwMSbD9t~6IeY03n~Qu8deVHzrYLKojFkIwtQw2g~zTKD5A3Pvvewh~YTX~6iSU9aoxVDNg491bg7l88XGxsIZ4rkdjm9k1RbOAZycXmbdga-KPX12Jxu2oFSFA5UyNSdanbqJ8Q__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
-# Brushless or Induction?
+## Brushless or Induction?
 
 Both DC brushless and induction drives use motors having similar stators. Both drives use 3-phase modulating inverters. The only differences are the rotors and the inverter controls. And with digital controllers, the only control differences are with control code. (DC brushless drives require an absolute position sensor, while induction drives require only a speed sensor; these differences are relatively small.)
 
@@ -123,7 +123,7 @@ Permanent magnets are expensive. Permanent magnet (PM) rotors are also difficult
 
 **I almost forgot:** Induction machines are more difficult to control. The control laws are more complex and difficult to understand. Achieving stability over the entire torque-speed range and over temperature is more difficult with induction than with DC brushless. This means added development costs, but likely little or no recurring costs.
 
-# Let's recap
+## Let's recap
 
 ### 1. BLDC Motors:
 

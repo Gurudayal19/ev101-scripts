@@ -62,7 +62,7 @@ The method to calculate the energy consumption is straightforward, and it makes 
 
 ## 1. Setting up the Simulation Environment
 
-We will now need to install and setup Scilab, Follow the steps below to install and set it up.
+We will now need to install and setup Scilab. Follow the steps below to install and set it up.
 
 **Step 1. Download Scilab**
 
@@ -177,7 +177,7 @@ ylabel("Vehicle speed [kph]")
 title("PupilFirst AICTE-LITE")
 ```
 
-The file is opened with the Scilab function xls_open(). The data from the second sheet, Sheetpos(2), is read by the xls_read() function and assigned to the Value variable. Further, the WLTP time and speed values are assigned to the WLTP structure.
+The file is opened with the [Scilab function](https://help.scilab.org/docs/2023.1.0/en_US/xls_open.html) xls_open(). The data from the second sheet, Sheetpos(2), is read by the xls_read() function and assigned to the Value variable. Further, the WLTP time and speed values are assigned to the WLTP structure.
 
 Notice that from the variable Value we extracted the data between rows 8 and 1808 and columns 3 and 5, as described in Step 2.
 

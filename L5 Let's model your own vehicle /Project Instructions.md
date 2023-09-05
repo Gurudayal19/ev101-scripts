@@ -1,8 +1,8 @@
 In this lesson, we will list down the approach you need to follow to do this. 
 
-## 1. Select your 2 wheeler.
+## 1. Choose your Two-Wheeler
 
-As a first step, use the list of vehicles along with their spec sheet below to select a vehicle of your choice.
+As your initial step, please select a vehicle from the provided list, which includes their respective specification sheets.
 
 > Important: Please select vehicle only from the list below in your project. 
 
@@ -56,37 +56,38 @@ As a first step, use the list of vehicles along with their spec sheet below to s
 
 ## 2. Select the target specification for your vehicle
 
-Select the target specification for your vehicle. Refer to lesson [Selecting the Target Specifications for the bike](https://www.pupilfirst.school/targets/10109) to recap on how to proceed with this if you have doubts. 
+Choose the target specifications for your vehicle. If you're unsure how to proceed with this, refer to the [lesson](https://www.pupilfirst.school/targets/10109) on selecting target specifications for the bike for guidance.
+
 
 ## 3. Finalize specifications, so your vehicle can compete with its ICE Counterpart
 
-Finalize what specifications you want to move the vehicle to compete with its ICE Counterpart. Your electric conversion needs to be able to beat the petrol version of the bike you plan to convert. You can refer to lesson [Finalizing Target Specifications and calculating Traction Force](https://www.pupilfirst.school/targets/10110) where we looked at the first steps to be taken when you want to convert an existing petrol vehicle, and the vehicle was already selected by us. 
+Finalize the specifications necessary for your vehicle to compete effectively with its Internal Combustion Engine (ICE) counterpart. Your electric conversion should outperform the petrol version of the bike you intend to convert. To guide you through this process, you can refer to the lesson on [Finalizing Target Specifications and calculating Traction Force](https://www.pupilfirst.school/targets/10110) where we looked at the first steps to be taken when you want to convert an existing petrol vehicle, and the vehicle was already selected by us. 
 
 - You can assume the coefficient of drag to around 0.5 - 0.6, for your motorcycle/scooter.
  or, you can refer to this [link](http://www.bgsoflex.com/airdragchart.html) for Air drag coefficient and frontal area calculation if you plan on using a different sized vehicle.
 
-- To calculate the frontal area, the rule of thumb is to take the front view image of the car or bike, and draw small boxes on the front view. Then calculate the area of those boxes and that is the frontal area. You can use the size of the tire as a reference, as tire sizes are standard for all vehicles and are easily available. 
+- To calculate the frontal area, a practical method is to take the front view image of the vehicle and partition it into small boxes. Then, calculate the combined area of these boxes, which represents the frontal area. You can also use the size of the tires as a reference point since tire sizes are standardized for all vehicles and readily available.
 
 > Note: Make sure to collect all the data that is needed to fill in the table, as they are necessary to get all the calculations correct.
 
 ## 4. Simulate energy consumption
 
-Simulate energy consumption with the already available Vehicle specs (for example, weight, tires, etc). This was discussed in lesson [Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2.](https://www.pupilfirst.school/targets/10112)
-> Note: You won't be able to calculate the weight of the vehicle after you convert it to electric as this is an online course and everything you do is simulated. Hence, it's best to consider already available specifications like the weight, tire size, tire friction coefficient, etc. of the vehicle that you are converting.)
+Perform energy consumption simulations using the provided vehicle specifications, which include details such as weight, tire size, and tire friction coefficient. This process aligns with what we covered in the lesson titled[Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2.](https://www.pupilfirst.school/targets/10112)
+> Note: You won't be able to calculate the weight of the vehicle after you convert it to electric as this is an online course and everything you do is simulated. Hence, it's best to consider already available specifications like the weight, tire size, tire friction coefficient, etc. of the vehicle that you are converting.
 
 
 ## 5. Build the block diagram and calculate the average energy consumption
 
 Next build Xcos block diagram. Refer to the [Scilab Xcos tutorial](https://demo.pflms.com/markdown_attachments/1799/hZD5Ts_9vW009i5TZQ7zxg) if you are stuck anywhere with Xcos. 
 
-You can use the same Xcos block diagram built in the lesson [Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2](https://www.pupilfirst.school/targets/10112) that we used to design the 2-wheeler and change the parameters in "scinotes". There is no need to build another block diagram or make any changes, the same diagram can be used for any vehicle. 
+You can use the same Xcos block diagram built in the lesson [Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2](https://www.pupilfirst.school/targets/10112) that we used to design the 2-wheeler and change the parameters in "scinotes". There's no need to create a new block diagram or make any alterations; the same diagram can be applied universally to any vehicle.
 
-Now that you have finished building a mathematical model for your very own electric vehicle and have received your energy consumption figure, it's time to move on to finalizing everything else in your vehicle. This is important because you will be using this same method in the future when you are going to build your own electric vehicle or design an electric vehicle.
+Now that you have successfully developed a mathematical model for your electric vehicle and obtained your energy consumption results, it's time to proceed with finalizing all other aspects of your vehicle. This step holds significant importance since you will be utilizing the same methodology in future endeavors, whether you're building your own electric vehicle or designing one.
 
 
 ## 6. Design a battery pack to manage the calculated energy needs
 
-Design a battery pack to manage the energy needs you calculated in the previous step. You should select at least 5 batteries from the list given below for comparison. 
+Design a battery pack to fulfill the energy requirements calculated in the previous step. Your task involves selecting a minimum of five batteries from the provided list for comparison.
 
 > Important: Please select batteries only from the list below in your project. 
 
@@ -137,62 +138,5 @@ Once Done, the Image and Calculation would look something like this
 > Note: Make sure to collect all the data that is needed to fill in the table, as they are necessary to get all the calculations correct.
 
 
-## 4. Simulate energy consumption
 
-Simulate energy consumption with the already available Vehicle specs (for example, weight, tires, etc). This was discussed in lesson [Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2.](https://www.pupilfirst.school/targets/10112)
-> Note: You won't be able to calculate the weight of the vehicle after you convert it to electric as this is an online course and everything you do is simulated. Hence, it's best to consider already available specifications like the weight, tire size, tire friction coefficient, etc. of the vehicle that you are converting.)
-
-
-## 5. Build the block diagram and calculate the average energy consumption
-
-Next build Xcos block diagram. Refer to the [Scilab Xcos tutorial](https://demo.pflms.com/markdown_attachments/1799/hZD5Ts_9vW009i5TZQ7zxg) if you are stuck anywhere with Xcos. 
-
-You can use the same Xcos block diagram built in the lesson [Calculating Energy Consumption {Software simulation in Scilab and Xcos - Part 2](https://www.pupilfirst.school/targets/10112) that we used to design the 2-wheeler and change the parameters in "scinotes". There is no need to build another block diagram or make any changes, the same diagram can be used for any vehicle. 
-
-Now that you have finished building a mathematical model for your very own electric vehicle and have received your energy consumption figure, it's time to move on to finalizing everything else in your vehicle. This is important because you will be using this same method in the future when you are going to build your own electric vehicle or design an electric vehicle.
-
-
-## 6. Design a battery pack to manage the calculated energy needs
-
-Design a battery pack to manage the energy needs you calculated in the previous step. You should select at least 5 batteries from the list given below for comparison. 
-
-> Important: Please select batteries only from the list below in your project. 
-
-- Use the battery selection Excel sheet and Scilab script to come up with appropriate comparisons.
-
-- Refer to [basic battery calculations and battery arrangements](https://www.pupilfirst.school/targets/10113) lesson to get all the battery calculations done.
-
-### **LFP**
-
-Prismatic LFP - Manufacturer: Orange, Model: [IFpP40130200-100](https://robu.in/wp-content/uploads/2021/03/871886-Orange-100Ah-3.2V-Prismatic-LFP-Battery.pdf), Price: [INR 6199](https://robu.in/product/orange-100ah-lithium-ion-rechargeable-battery-for-electric-vehicles/?gclid=CjwKCAjw2K6lBhBXEiwA5RjtCTxNkInPE-B6FW-MRIqhVZ2XEH-qhpfsrrLJmNpfmhTXppEmH05UJxoCdGgQAvD_BwE)
-
-Cylindrical LFP - Manufacturer: Orange, Model:  [IFR32650](https://robu.in/wp-content/uploads/2021/06/951488.pdf) Price: INR [499](https://robu.in/product/orange-ifr32650-6000mah-lifepo4-battery/?gclid=CjwKCAjw2K6lBhBXEiwA5RjtCVIdu_9gHmT6GkOMoISvE5HbRhKJBpc2NSFTfoFVb0wft3vcPEktUhoCoz4QAvD_BwE)
-
-### **Different dimension Li-ion**
-
-Cylindrical Li-ion - Manufacturer: LG, Model: [INR21700 M50](https://robu.in/wp-content/uploads/2021/11/DATASHEET-LGM50.pdf) Price: INR [999](https://robu.in/product/lg-inr21700-m50lt-5000mah-1c-li-ion-battery/)
-
-Cylindrical Li-ion - Manufacturer: SAMSUNG, Model:   [INR21700-40T](https://robu.in/wp-content/uploads/2022/06/SAMSUNG-INR21700-40T-Datasheet.pdf) Price: INR [999](https://robu.in/product/samsung-inr21700-40t-4000mah-9c-li-ion-battery/)
-
-### **Standard - 18650 Li-ion**
-
-Cylindrical Li-ion - Manufacturer: LG Chem, Model:  [INR18650 MJ1](https://www.nkon.nl/sk/k/Specification%20INR18650MJ1%2022.08.2014.pdf)  Price: INR [320](https://www.indiamart.com/proddetail/lg-mj1-18650-3500mah-lithium-ion-battery-21443061062.html)
-
-Cylindrical Li-ion : Manufacturer: Samsung SDI, Model: [INR18650-25R](https://dalincom.ru/datasheet/SAMSUNG%20INR18650-25R.pdf) Price: INR [375](https://www.indiamart.com/proddetail/samsung-25r-lithium-ion-rechargeable-cell-21224893655.html)
-
-Cylindrical Li-ion: Manufacturer: Samsung SDI, Model: [INR18650-30Q INR18650-30Q](https://datasheetspdf.com/pdf-file/951041/Samsung/INR18650-30Q/1) Price: INR [340](https://www.indiamart.com/proddetail/samsung-inr18650-30q-3-6volt-3000mah-li-ion-battery-2849512694133.html)	
-
-### **Prismatic Cells**
-
-Samsung Prismatic cell, Model: [SDI 94ah](https://pdf.indiamart.com/impdf/23963434155/MY-271021/samsung-94ah-3-7v-li-ion-battery-6000-cycles-20-yrs-life.pdf), Price: INR [5500](https://www.indiamart.com/proddetail/samsung-94ah-3-7v-li-ion-battery-6000-cycles-20-yrs-life-23963434155.html)
-
-CATL prismatic cell, Model: [QH-LFP48174128-86](https://www.genuinepower.co.in/lithium-ferrous-phosphate-battery.html#catl-type-60ah-3-2v-15000-cycles:~:text=Model-,QH%2DLFP48174128%2D86,-Casing%20material%20for), Price: INR [2100](https://www.indiamart.com/proddetail/lithium-phosphate-battery-21638006155.html) 
-
-### **Pouch Cells**
-
-LG pouch cell, Model: [E63B](https://pdf.indiamart.com/impdf/26747347997/MY-137078227/3-7v60ah-pouch-lithium-cell.pdf), Price: INR [2100](https://www.indiamart.com/proddetail/3-7v60ah-pouch-lithium-cell-26747347997.html)
-
-Ganfeng pouch type cells, Model: [78158240-030Ah](https://pdf.indiamart.com/impdf/2849206539091/MY-11072761/3-2-v-30-ah-pouch-cell.pdf), Price: INR [1200](https://www.indiamart.com/proddetail/3-2-v-30-ah-pouch-cell-2849206539091.html)
-
->Important: Please make sure that you include all the necessary details as required in your report submission. Each requirement as listed in the report submission will be thoroughly evaluated to assign marks for the submissions.
 

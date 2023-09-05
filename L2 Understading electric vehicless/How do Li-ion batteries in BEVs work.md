@@ -5,8 +5,8 @@ Yes, the same ones in your remote and your laptop.
 Like any other battery, a rechargeable lithium-ion battery is made of one or more power-generating compartments called cells. 
 
 Each cell has essentially four components: 
-1. A positive electrode (connected to the battery's positive or + terminal also called the cathode).
-2. A negative electrode (connected to the negative or − terminal also called Anode).
+1. A positive electrode (connected to the battery's positive or + terminal also called the _cathode_).
+2. A negative electrode (connected to the negative or − terminal also called _Anode_).
 3. And a chemical called an electrolyte in between them. 
 4. A separator.
 
@@ -142,7 +142,7 @@ hours`
 [INR18650-25R-Samsung Datasheet](https://www.pupilfirst.school/markdown_attachments/3616/qkvyUQpXzNZfSCXh6M_2UQ)
 
 
-Now, for the battery we have selected, imagine that the maximum current the battery can produce is around 20 Amperes.  can also be written as 20,000 milli-amperes *(from Page 3, point no 3.7)*
+Now, for the battery we have selected, imagine that the maximum current the battery can produce is around 20 amperes. This can also be written as 20,000 milli-amperes *(from Page 3, point no 3.7)*
 
 
 Now, we know
