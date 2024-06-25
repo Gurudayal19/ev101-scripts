@@ -1,4 +1,4 @@
-Understanding the history of electric cars is essential to provide context within the broader development of personal vehicles.
+Understanding Understanding the history of electric cars is essential to provide context within the broader development of personal vehicles.
 
 Electric cars have been around a lot longer than today’s Tesla Motors or even the General Motors EV1 of the late 1990s. 
 
