@@ -1,4 +1,4 @@
-So until now, we learned about how motors work and how they are vital in propelling our automobile. Now let's have a look at what powers those motors - batteries.
+So until now, we learned about how motors work and how they are vital in propelling our automobile. Now let's have a look at what powers those motors - **Batteries**.
 
 Yes, the same ones in your remote and your laptop.
 
@@ -11,22 +11,22 @@ Each cell has essentially four components:
 4. A separator.
 
 
-The four components of Li-ion Battery​:
+## The four components of Li-ion Battery​:
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/0gsx7cuo21uo8qt4c86m0fa1pft3?response-content-disposition=inline%3B+filename%3D%22512px-General_discharging_Li_battery_diagram.svg.png%22%3B&response-content-type=image%2Fpng&Expires=1693400804&Signature=BKWh5utKrXcPRa6BSP4uPapE-fDqFGuUPySF4zTTRaR7xlB52IMj~mQOAnOY8AOG4H1Qttv0mJkFbb8AbcebzS~ZqI79soHi1aeCbjMcMdWQnkW-bALhAsV4Ymo~VKPBx0~v6pmyyv1oUO8qEj4u1fCeER~rCXJ09YMT2hErYimns5sxG2C9pd~O~QpTEkOdj8Tno8MMSHkMoFZQNYlg-~jhqowYnfd0IBp8RxYGfOq~fKFMcobpfbMPoSnAjpb6v1CwfjUrcg-zFiXWdc-MT0mVOZvtsZqvGde~wpnhVUZxj6SpAxiOWLUO1sKgYuX3BzkC9PCiAvkKlMI~oQp5QQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
 -=- _General discharging Li battery_ | License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## **1. Cathode** 
+## 1. Cathode
 The cathode plays an important role in determining the characteristics of the battery as the battery’s capacity and voltage are determined by the active material type used for the cathode.
 The higher the lithium, the bigger the capacity; and the bigger the potential difference between cathode and anode, the higher the voltage.
 The potential difference is small for anode depending on their type but for the cathode, the potential difference is relatively high in general.
 As such, the cathode plays a significant role in determining the voltage of the battery. 
 
->“Cathode” determines the capacity and voltage of a Li-ion battery.
+> “Cathode” determines the capacity and voltage of a Li-ion battery.
 
  
-## **2. Anode** 
+## 2. Anode 
 
 The basic function of an anode is to send "electrons" through the wire when the battery is getting discharged or is connected to an appliance.
  
@@ -38,10 +38,7 @@ and the electrons (e-) separated from lithium ions move along the wire generatin
 
 Because graphite has optimal qualities such as structural stability, low electrochemical reactivity conditions for storing much lithium ions and price, the material is considered suitable to be used for the anode.
 
-
-
-
-## **3. Electrolyte** 
+## 3. Electrolyte
 
 The electrolyte is the medium by which the movement of ions happens! 
 
@@ -64,17 +61,17 @@ Separators are usually made up of synthetic resins such as polyethylene (PE) and
 
 >”Separator”, the absolute barrier between cathode and anode.
 
-## To recap
+## Recap
 - The electrolyte in the center carries positively charged lithium ions from the anode to the cathode and vice versa through the separator. 
 - The movement of the lithium ions creates free electrons in the anode which creates a charge at the cathode (blue).  
 - The electric current caused due to the flowing electrons then flows from the cathode through a device being powered to the anode (red). 
-- The separator (black) blocks the flow of electrons inside the battery, forcing it to go through the wire connected outside.
+- The separator (black) blocks the flow of electrons inside the battery, forcing it to go through the wire connected outside (external circuit).
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/ntrwkx2u8fj3ioj43dv0nywcc31k?response-content-disposition=inline%3B+filename%3D%22How-Lithium-Ion-Batteries-Work+%281%29.gif%22%3B&response-content-type=image%2Fgif&Expires=1693400804&Signature=Wyxf~KhBeQgAz5TbNqCDYYOditN2QSizAVpvgm-X7YnQ--lEEfs6BopchNxwAqfmejFdF8yV0zYUhtFebkoo0j8hf9jqxWIg3o23m85Jdx1jKcxxSCjNQ2~JZX4RR9~V3mAJxIUh7yJ0UDyzTkYZxUyxdMBBIzXG6Fq-5aCOLdJtglO6q6SS7hFnPzoRWnI84soLLOQF~4UnjOoRQEkfqiYElsTpabfrR-MGscO-6RgkUi0QlZna~lS8j1d5Axaac2-uSAECNJSfdFLlh5CPsKbRi0npvZKZP2QZyEclbOJkjq9R6xuvDBy-qV5JtF7KKGQ0uYS5SwFqVPikgNYksQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 -=- Source: [U.S. Department of Energy](https://www.energy.gov/science/doe-explainsbatteries)
 
 ### Points to remember 
-- The negative electrode and positive electrode are capable of storing lithium ions. 
+- Both electrodes can store lithium ions.
 - Energy is stored and released as lithium ions travel between these electrodes through the electrolyte.  
 
 - The negative electrode is generally made from carbon (graphite) and the electrolyte varies from one type of battery to another, but isn't too important in understanding the basic idea of how the battery works.
@@ -84,7 +81,7 @@ Separators are usually made up of synthetic resins such as polyethylene (PE) and
 
 **Now that we know the basic components of a Li-ion Cell, let's understand more what goes on during charging and discharging!**
 
----
+
 ##  Charging a battery
 
 When the battery is charging up, the lithium-cobalt oxide, positive electrode gives up some of its lithium ions, which move through the electrolyte to the negative, graphite electrode and remain there. The battery takes in and stores energy during this process.
@@ -100,7 +97,7 @@ When the battery is charging up, the lithium-cobalt oxide, positive electrode gi
 3. The battery is charged by a potential difference between the two electrodes.
 
 ##  Discharging a battery
-When the battery is discharging, the lithium ions move back across the electrolyte to the positive electrode, producing the energy that powers the battery. In both cases, electrons flow in the opposite direction to the ions around the outer circuit. Electrons do not flow through the electrolyte: it's effectively an insulating barrier, so far as electrons are concerned.
+During discharging, the lithium ions move back cathode, producing the energy that powers the battery. In both cases, electrons flow in the opposite direction to the ions around the outer circuit. Electrons do not flow through the electrolyte: it's effectively an insulating barrier, so far as electrons are concerned.
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/628fdm2n6bttjuogbbatspckey1o?response-content-disposition=inline%3B+filename%3D%22discharging-cropped.gif%22%3B&response-content-type=image%2Fgif&Expires=1693400804&Signature=JYrha-duzy8NVrcFXvGiWEplsB1enTmkCV7X5joc5u~ppUFqfChYatVh~IfS157VhxUOPROxRO7ejycaUnwPAuJIkC~ZBLdjOarG-jsAjryg4tzqIvJ9wYuyPUDaEQnmQwmZ7BhPS1G9XK3XwyWFWeQ7A2OwxPEe-J7jGTZc6o4EDL-t0~61rC9lIQUoi5Hp0wn0VikN0N8Qr1~xHp-Z3cqj18cJ0b077LrHWiJcRtE4Eygm0Vg4bbFVUjszdkNZS68grmXdO724DGScHwE91uJ-~PyBGYmYrx3YIHGzcmuo-18wRpfB2rUEP1SRnN-dd244AD9k~vsJfDcME5D9dQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
@@ -108,7 +105,7 @@ When the battery is discharging, the lithium ions move back across the electroly
 
 1. A discharge circuit is formed between the anode and the cathode.
 2. Lithium ions stored in the anode move to the cathode.
-3. Energy is used.
+3. Energy is released.
 
 ## Important points to remember
 
@@ -121,11 +118,13 @@ When the battery is discharging, the lithium ions move back across the electroly
 
 - Avoid heat, which degrades the batteries.
 
+## Understanding C Rate
+
 - Electrical current is measured in amperes, or simply amps. But the impact of one ampere of current from a small battery cell is quite different from the impact of one ampere of current from a large battery cell. Hence a relative measure of electrical current is used to scale the size of a battery cell, and this relative measure is known as the **C rate**. 
      
-     * The C rate of a battery cell is the level of constant current charge or discharge that the cell can sustain for one hour of time. 
+     - The C rate of a battery cell is the level of constant current charge or discharge that the cell can sustain for one hour of time. 
 
-     * For example, a cell having a capacity of ` 20 ampere hours (or 20AH)`  should be able to deliver 20 amperes of current for one hour or two amperes of current for 10 hours. 
+     - For example, a cell having a capacity of ` 20 ampere hours (or 20AH)`  should be able to deliver 20 amperes of current for one hour or two amperes of current for 10 hours. 
        
        `20 Ampere-Hour` = `20 Amperes` x `1 hour` **or** `2 Amperes` x `10
 hours`
@@ -146,6 +145,7 @@ Now, for the battery we have selected, imagine that the maximum current the batt
 
 
 Now, we know
+
 => `Battery capacity x C rating = Output current`
 
 => `2500 x C Rating = 20,000 milli-amperes`
@@ -154,4 +154,4 @@ Now, we know
 
 => `C rating = 8`
 
-Which means, the `Peak C rating is 8`, and the `continuous C Rating is 0.2` ( from Page 3, point no 3.1)
+Which means, the `Peak C rating is 8`, and the `Continuous C rating is 0.2` ( from Page 3, point no 3.1)
