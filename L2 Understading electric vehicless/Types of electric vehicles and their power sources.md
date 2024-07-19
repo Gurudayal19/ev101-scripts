@@ -1,4 +1,4 @@
-Having familiarized ourselves with the distinctions separating electric vehicles from internal combustion engines, let's delve into the various classifications within the space of electric vehicles.
+Having familiarised ourselves with the distinctions separating electric vehicles from internal combustion engines, let's delve into the various classifications within the space of electric vehicles.
 
 There are four main types of electric vehicles (EVs), classed by their energy source:
 - **BEVs** or Battery electric vehicles
