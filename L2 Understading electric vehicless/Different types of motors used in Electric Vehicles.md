@@ -72,7 +72,7 @@ Now that we have learned a bit about DC brushless motors, the next type is calle
 
 ## A closer look at induction motor drives
 
-A forerunner of the 3-phase induction motor was invented by Nikola Tesla sometime before 1889. Curiously, the stators for the 3-phase induction motor and the DC brushless motor are virtually identical. Both have three sets of “distributed windings” that are inserted within the stator core. The essential difference between the two machines is with the rotor.
+A forerunner of the 3-phase induction motor was invented by Nikola Tesla sometime before 1889. Curiously, the stators for the 3-phase induction motor and the DC brushless motor are virtually identical. Both have three sets of “distributed windings” that are inserted within the stator core. The essential difference between the two machines is with the _rotor_.
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/g6ltjw3meq9prk2acrd93clw2n0j?response-content-disposition=inline%3B+filename%3D%22induction%2Bmotor.png%22%3B&response-content-type=image%2Fpng&Expires=1719828680&Signature=OhtmvXf~fyd9QBV~dJFkCj1Pil3eGMgIqKVeqy8d6lAWwLvjM5d0MKzvFt4i-jg~~uk~-p-SiiAu54mYZ2TLBCuwietFN-TsKe1I2UJySbeJMftG9wDTdCT7iBTtg79x2pee99vCl2P3H0Diw-dNyrBxHduxHlLPeVM3y5zEMS8fvWL7p8t4PglABz1kh8MIWGEavcJIjtHWBTDHIJbJAD6ys-zrC3Gv~fOLibGXZ3Vuib4QuWb~qtbzmQDYbRyq1Ca~Dbtg3dvJlra0bKq7yEqTveBxXHMrjIXoYXYqFn2yF5nsheTFGFAJVPKxX~Uo6UETBjf-~k5zd81EadxyiQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
