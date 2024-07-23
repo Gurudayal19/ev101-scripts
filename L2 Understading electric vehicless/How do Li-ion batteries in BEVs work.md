@@ -11,7 +11,7 @@ Each cell has essentially four components:
 4. A separator.
 
 
-## The four components of Li-ion Battery​:
+## The four components of Li-ion Battery​
 
 <img class="mx-auto w-auto md:w-auto" alt src="https://do7js0tdxrds1.cloudfront.net/0gsx7cuo21uo8qt4c86m0fa1pft3?response-content-disposition=inline%3B+filename%3D%22512px-General_discharging_Li_battery_diagram.svg.png%22%3B&response-content-type=image%2Fpng&Expires=1693400804&Signature=BKWh5utKrXcPRa6BSP4uPapE-fDqFGuUPySF4zTTRaR7xlB52IMj~mQOAnOY8AOG4H1Qttv0mJkFbb8AbcebzS~ZqI79soHi1aeCbjMcMdWQnkW-bALhAsV4Ymo~VKPBx0~v6pmyyv1oUO8qEj4u1fCeER~rCXJ09YMT2hErYimns5sxG2C9pd~O~QpTEkOdj8Tno8MMSHkMoFZQNYlg-~jhqowYnfd0IBp8RxYGfOq~fKFMcobpfbMPoSnAjpb6v1CwfjUrcg-zFiXWdc-MT0mVOZvtsZqvGde~wpnhVUZxj6SpAxiOWLUO1sKgYuX3BzkC9PCiAvkKlMI~oQp5QQ__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
