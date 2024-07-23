@@ -33,7 +33,7 @@ For now, let's understand the **types of electric motors** available, and take a
 ![Types of motors.png](https://www.pupilfirst.school/markdown_attachments/3392/Ko2pxv9caXa1u_vFxyyjoQ)
 
 
-## Let's have a closer look.
+## Let's have a closer look
 
 So, what are these two technologies? How do they work? What differentiates them? And what do they have in common? Let’s start with DC brushless drives, also known as BLDC motors!
 
