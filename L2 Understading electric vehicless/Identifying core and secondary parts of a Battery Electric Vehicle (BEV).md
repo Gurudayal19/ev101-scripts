@@ -78,7 +78,7 @@ Looking at Image 3, we see the complete powertrain of an electric vehicle.
 3. Rotor (Part of a motor) - *Shown in Image 5*
 4. Single-speed gearbox and differential.
 
-### Power electronic controller 
+## Power electronic controller 
 
  ![Renault-Zoe-power-electronics.jpg](https://demo.pflms.com/markdown_attachments/1727/MYLSElbERkIx65752XQlyg)*Image 4 - Renault Zoe power electronics
 Source: [Renault Cleon Plant press kit](https://www.autoblog.com/photos/renault-r250-electric-motor-at-cleon-plant/#slide-1448570)* 
