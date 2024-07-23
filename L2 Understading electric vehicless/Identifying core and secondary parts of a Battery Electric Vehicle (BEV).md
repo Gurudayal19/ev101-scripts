@@ -52,7 +52,7 @@ The battery is the key component of the EVs because:
 
 **Usually in automotive applications, phosphate lithium-ion batteries are more suitable because they are safer in terms of chemical and thermal hazards.**
 
-### The Battery Management System
+## The Battery Management System
 Battery Management Systems are the brains behind battery packs. They manage the output, charging and discharging, and provide notifications on the status of the battery pack. They also provide critical safeguards to protect the batteries from damage.
 
 A battery pack usually consists of several individual cells that work together in combination. Ideally, all the cells in a battery pack should be kept at the same state of charge. If the cells go out of balance, individual cells can get stressed and lead to premature charge termination and a reduction in the overall life of the battery. 
