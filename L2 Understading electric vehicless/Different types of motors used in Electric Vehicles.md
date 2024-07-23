@@ -70,7 +70,7 @@ The arrow in the image above is the north pole of the magnet getting attracted t
 
 Now that we have learned a bit about DC brushless motors, the next type is called an **induction motor**.
 
-## A closer look at induction motor drives. 
+## A closer look at induction motor drives
 
 A forerunner of the 3-phase induction motor was invented by Nikola Tesla sometime before 1889. Curiously, the stators for the 3-phase induction motor and the DC brushless motor are virtually identical. Both have three sets of “distributed windings” that are inserted within the stator core. The essential difference between the two machines is with the rotor.
 
