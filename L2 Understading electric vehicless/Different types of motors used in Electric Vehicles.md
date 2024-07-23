@@ -78,7 +78,7 @@ A forerunner of the 3-phase induction motor was invented by Nikola Tesla sometim
 
 -=- _Components of an induction motor_ | Source: [Robo Blazek](https://commons.wikimedia.org/wiki/File:AM_Klietka.png)
 
-Lets, look at the different parts of the rotor of an induction motor, from the above image
+Lets look at the different parts of the rotor of an induction motor, from the above image:
 
 1. **Shaft:** Connects the rotor to the output; this is the main component that transfers all the torque provided by the rotor to the outside load.
 
