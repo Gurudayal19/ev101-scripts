@@ -8,7 +8,7 @@ For now, our focus will be exclusively on BEVs and their components, specificall
 
 -=- Source: [U.S. Department of Energy](https://afdc.energy.gov/vehicles/how-do-hybrid-electric-cars-work)
 
-### Types of BEVs
+## Types of BEVs
 
 BEVs come in various types, including:
 
