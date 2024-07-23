@@ -17,7 +17,7 @@ You can figure out the direction in which the wire will jump using a method call
  
 1. Hold out the thumb, first finger, and second finger of your left hand so all three are at right angles.
 2. If you point the second finger in the direction of the current (which flows from the positive to the negative terminal of the battery).
-3. Point the first finger in the direction of the Field (which flows from the North to the South pole of the magnet), your thumb's will ten indicate the direction in which the wire moves.
+3. Point the first finger in the direction of the _field_ (which flows from the North to the South pole of the magnet), your thumb's will ten indicate the direction in which the wire moves.
 
 ![Left_hand_rule.png](https://www.pupilfirst.school/markdown_attachments/3395/kDMOh0QNRL5zjRnR76KTUw)
 
