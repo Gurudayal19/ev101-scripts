@@ -105,7 +105,7 @@ When the vehicle is charged from a home electrical grid (e.g. 220 V),
 
 5. The **input filter** reduces the electric noise or interference generated during regenerative braking, when energy is fed back into the batteries via the motors.
 
-### Understanding motors
+## Understanding motors
 
 <img class="mx-auto w-auto md:w-auto" alt="A typical exploded view of an Induction motor" src="https://do7js0tdxrds1.cloudfront.net/6cl615vw8or1epho8kcd62d3asnm?response-content-disposition=inline%3B+filename%3D%22AC+%282%29.png%22%3B&response-content-type=image%2Fpng&Expires=1693398434&Signature=Hof2v86sr1eKcBxJkHWLXxfJzREug3WCzphtv6fdXmZpZfihvCxWWqiolfQjzHlpMeR8X5Cw~rhvU9h1b5hGe7hXCANwQKcgz4tdrmvIKEI36s3cpa-fSZtUVyBzw4u2WOFVMCeiDy54eel1SJlnHaGPeOIsQ~LUUtUtD0s90MR2g3jEfPpPQ2J49r2LuvU0afXT8wzusCo8ueqmNzOc9gGC9TCkY~4vG7bYJfz7QMXnLC2qDEpNGw7DN73iShyI43EW6~8bPsH3FvGeH-GLh3qjNHhXGO5tceO9wfF92MX4RPq5Q97ahLX-DjUFCfmtz5Gk8S~AzxbRIf70hOGgpA__&Key-Pair-Id=K2Q3HDJ6ZAQGFF">
 
